@@ -4,4 +4,4 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/Titus-diceman/ICS2O-unit-1-07-html)](https://repl.it/github/Titus-diceman/ICS2O-unit-1-07-html)
 
-This site can be found at: [https://Titus-diceman.github.io/ICS2O-unit-1-07-html](https://Titus-diceman.github.io/ICS2O-unit-1-07-html)<REPOSITORY>
+This site can be found at: [https://Titus-diceman.github.io/ICS2O-unit-1-07-html](https://Titus-diceman.github.io/ICS2O-unit-1-07-html)
